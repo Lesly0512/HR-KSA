@@ -1,9 +1,10 @@
 ## Welcome to Lesly's WebPage
-This is my webpage and now editing
+>This is my webpage and now editing
 
 ## About Lesly
-I'm a HR specialist in Foxconn.
+>I'm a HR worker.
 
 ## Contact with Lesly
 
-You can mail to c800512@gmail.com
+>You can mail to c800512@gmail.com  
+>[My LinkedIn](https://www.linkedin.com/in/lesly-yu-88007088/)
